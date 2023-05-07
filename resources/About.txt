@@ -1,0 +1,31 @@
+Main page heading: About Special Cakes for All Occasions 
+
+Special Cakes for All Occasions started a year ago by the store owner, Sam Rice, who wanted to share their love of baking with the world. Come and taste all the delightful cakes! 
+
+Images: A suitable image needs to be sourced for this page. See the Images section below for more detail. 
+
+Sub heading: Job opportunities 
+
+Come and work for us! 
+
+Developer instructions: Display the following in a table: 
+
+
+Job title 
+
+Job description 
+
+Salary 
+
+Pastry chef 
+
+Specialises in pastry desserts. Must have four years of experience. 
+
+$50,000 p.a. 
+
+Sales assistant 
+
+Serves customers in the shop and operates the cash register. 
+
+$25,000 p.a. 
+

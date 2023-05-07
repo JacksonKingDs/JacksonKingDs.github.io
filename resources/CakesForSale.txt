@@ -1,0 +1,66 @@
+Main page heading: Cakes for Sale 
+
+Images: This page displays six product images and the product name (include a link on each image to display a larger image). Several images have been provided to use on this page, contained in the images folder – select six images from those provided for the following products: 
+
+Speciality cakes 
+
+Flavoured cakes 
+
+Cheesecakes 
+
+Brownies 
+
+Cupcakes 
+
+Macarons 
+
+Sub heading: Prices 
+
+Developer instructions: Include the following prices in a table: 
+
+Table 1 – Cakes for sale 
+(see brief)
+
+Sub heading: How to order 
+
+If you’re interested in ordering a cake for your special occasion, let us know! 
+
+Developer instructions: Include a form to be used by customers to enquire about ordering cakes. This must capture the following information, which will be emailed to the shop’s email address: 
+
+Name 
+
+Email address 
+
+Phone number 
+
+The type of cake required 
+
+Date required. 
+
+For example: 
+(Form with fields Name, Email, Phone, Feedback and a Send button)
+
+Cake Size 
+
+Suitable for 
+
+Price 
+
+Small  
+
+8-10 people 
+
+$50.00 
+
+Medium 
+
+10-12 people 
+
+$60.00 
+
+Large 
+
+16-10 people 
+
+$100.00 
+

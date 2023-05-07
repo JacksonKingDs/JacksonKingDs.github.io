@@ -1,0 +1,1 @@
+Each page in the website must have a consistent background, with a suitable web banner image and the company logo. The logo image must have a link that takes you back to the Home page. See the Images section below for more detail. 

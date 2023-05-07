@@ -1,0 +1,13 @@
+Main page heading: Get in touch with us 
+
+Developer instructions: Include a form to capture the following information, which will be emailed to the shop’s email address: 
+
+Name 
+
+Email address 
+
+Phone number 
+
+The person’s question or feedback. 
+
+For example: 
